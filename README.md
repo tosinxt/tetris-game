@@ -29,6 +29,6 @@ python tetris.py
 - **Up Arrow Key**: Rotate the falling shape.
 
 ## Acknowledgements
-This game was created by [Your Name] as a project.
+This game was created by TosinXT as a project.
 
 Enjoy playing Tetris!
